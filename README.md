@@ -5,4 +5,4 @@
 
 
 ## Network Topology
-![image](https://user-images.githubusercontent.com/123278460/230177400-d284f060-bbc4-4eee-be6e-881f05633034.png)
+![image](https://github.com/Mac-s-PC/Network-Topolology-Org-Chart/blob/main/Network%20Topology%20%26%20Table.pdf)
